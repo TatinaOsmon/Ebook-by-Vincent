@@ -1,0 +1,231 @@
+{
+    "favorite": {
+        "add_book": "Ditambahkan ke buku saya",
+        "remove_book": "Dihapus dari buku saya"
+    },
+    "exit_app": {
+        "app_exit": "Tekan kembali sekali lagi untuk keluar"
+    },
+    "audio_book": {
+        "share_via": "Berbagi melalui",
+        "download": "Unduh",
+        "speed": "Kecepatan",
+        "chapter": "Bab"
+    },
+    "login": {
+        "login": "Gabung",
+        "or_text": "Atau login menggunakan",
+        "login_text": "Mari Login",
+        "number": "Nomor handphone",
+        "enter_number": "Masukkan nomor ponsel Anda"
+    },
+    "otp": {
+        "resend_text": "Kirim ulang OTP",
+        "not_receive_text": "Tidak menerima kode OTP?",
+        "please_wait": "Mohon tunggu",
+        "confirm_text": "Kode Konfirmasi telah dikirimkan kepada Benn kepada Anda No Mobile No +91 (1234567890)",
+        "verify": "Memeriksa",
+        "otp_text": "Verifikasi OTP"
+    },
+    "register": {
+        "register": "Daftar",
+        "user_name": "Nama belakang",
+        "enter_name": "Masukkan nama Anda",
+        "mobile_number": "Nomor handphone",
+        "enter_number": "Masukkan nomor ponsel Anda",
+        "email_address": "Alamat email",
+        "enter_email": "Masukkan alamat email Anda"
+    },
+    "author": {
+        "review": "Tinjauan",
+        "book": "Buku",
+        "novelist": "Novelis Amerika",
+        "books": "Buku",
+        "followers": "Pengikut",
+        "unfollow": "Berhenti mengikuti",
+        "follow": "Mengikuti"
+    },
+    "bottom_navigation": {
+        "home": "Rumah",
+        "search": "Mencari",
+        "my_book": "Buku saya",
+        "profile": "Profil"
+    },
+    "famous_author": {
+        "famous_authors": "Penulis terkenal"
+    },
+    "get_premium": {
+        "get_premium": "Dapatkan premium",
+        "what_you_get": "Apa yang kau dapatkan",
+        "premium_text": "Dapatkan premium",
+        "best_offer": "Penawaran terbaik"
+    },
+    "home": {
+        "good_morning": "Selamat pagi Jenny",
+        "time_read": "Saatnya membaca!",
+        "famous_author": "Penulis terkenal",
+        "paid_book": "Buku berbayar",
+        "new_release": "Rilis baru",
+        "recommended": "Direkomendasikan untukmu",
+        "most_popular": "Paling Populer",
+        "see_all": "Lihat semua",
+        "get_premium": "Dapatkan premium",
+        "download_text": "Unduh dan Dengarkan Buku Anda Offline",
+        "subscribe_now": "Berlangganan sekarang"
+    },
+    "horror": {
+        "horror": "Kengerian"
+    },
+    "most_popular": {
+        "most_popular": "Paling Populer"
+    },
+    "my_book": {
+        "my_book": "Buku saya",
+        "empty_text": "Anda belum menambahkan \n Buku apa pun di sini"
+    },
+    "new_release": {
+        "new_release": "Rilis baru"
+    },
+    "notification": {
+        "notification": "Pemberitahuan",
+        "no_notification": "Tidak ada pemberitahuan baru",
+        "older_notification": "Pemberitahuan yang lebih tua",
+        "remove_notification": "Dihapus dari pemberitahuan",
+        "new_notification": "Pemberitahuan baru"
+    },
+    "onboarding": {
+        "welcome_story": "Selamat datang di Story Time",
+        "listen_book": "Dengarkan buku Anda",
+        "easy_Explore": "Jelajahi mudah",
+        "skip": "Melewati",
+        "next": "Lanjut",
+        "login": "Gabung"
+    },
+    "paid_story": {
+        "paid_story": "Cerita berbayar"
+    },
+    "payment": {
+        "get_premium": "Dapatkan premium",
+        "payment": "Pembayaran",
+        "card_number": "Nomor kartu",
+        "enter_number": "Masukkan nomor kartu",
+        "expire_date": "Tanggal kadaluarsa",
+        "cvv": "CVV",
+        "enter_cvv": "Masukkan CVV",
+        "name_card": "Nama di kartu",
+        "enter_name": "Masukkan Nama Pemegang Kartu",
+        "credit_card": "Kartu kredit",
+        "card_holdar": "Pemegang kartu"
+    },
+    "app_setting": {
+        "app_settings": "Pengaturan aplikasi",
+        "application_update": "Pembaruan Aplikasi",
+        "dark_mode": "Mode gelap",
+        "notification": "Pemberitahuan"
+    },
+    "download": {
+        "download": "Unduh",
+        "empty_download": "Unduh video dan \n Dengarkan Offline",
+        "remove_dowmload": "Dihapus dari unduhan"
+    },
+    "edit_profile": {
+        "edit_profile": "Sunting profil",
+        "update": "Memperbarui",
+        "email_address": "Alamat email",
+        "change_email": "mengganti alamat email",
+        "enter_email": "Masukkan ID Email Anda",
+        "mobile_number": "Nomor handphone",
+        "change_mobile": "Ubah nomor ponsel",
+        "enter_number": "Masukkan nomor Anda",
+        "okay": "Oke",
+        "cancel": "Membatalkan",
+        "user_name": "Nama belakang",
+        "change_name": "Ubah Nama Pengguna",
+        "enter_name": "Masukkan nama Anda",
+        "select_image": "Pilih gambar",
+        "take_photo": "Memotret",
+        "chosse_library": "Pilih dari Perpustakaan",
+        "remove_photo": "Hapus foto"
+    },
+    "follow_list": {
+        "your_list": "Daftar mengikuti Anda",
+        "unfollow": "Berhenti mengikuti",
+        "follow": "Mengikuti"
+    },
+    "help_support": {
+        "help_support": "Bantuan & Dukungan",
+        "send": "Kirim",
+        "write_message": "Tulis pesan Anda di sini",
+        "write_us": "Tuliskan kami",
+        "text": "Mari kita buat kemajuan \n bersama"
+    },
+    "language": {
+        "language": "Bahasa",
+        "update": "Memperbarui"
+    },
+    "privacy_policy": {
+        "privacy_policy": "Kebijakan pribadi",
+        "manage_information": "Mengelola informasi Anda",
+        "introduction": "pengantar"
+    },
+    "profile": {
+        "profile": "Profil",
+        "app_settings": "Pengaturan aplikasi",
+        "terms_Condition": "Syarat & Kondisi",
+        "privacy_policy": "Kebijakan pribadi",
+        "help_Support": "Bantuan & Dukungan",
+        "logout": "Keluar",
+        "logout_text": "Apakah Anda yakin ingin keluar?",
+        "cancel": "Membatalkan",
+        "edit_profile": "Sunting profil",
+        "download": "Unduh",
+        "language": "Bahasa",
+        "follow_list": "Daftar mengikuti Anda",
+        "get_premium": "Dapatkan premium"
+    },
+    "terms_condition": {
+        "terms_condition": "Syarat & Kondisi"
+    },
+    "reading": {
+        "chapter": "Bab",
+        "share_via": "Berbagi melalui"
+    },
+    "recommended": {
+        "recommended_you": "Direkomendasikan untukmu"
+    },
+    "review": {
+        "review": "Tinjauan"
+    },
+    "search": {
+        "search": "Mencari",
+        "browse_all": "Jelajahi semuanya",
+        "top_book": "Buku teratas untuk Anda",
+        "filter": "Saring",
+        "reset": "Mengatur ulang",
+        "categories": "Kategori",
+        "what_you_want": "Apa maumu",
+        "language": "Bahasa"
+    },
+    "search_screen": {
+        "search": "Mencari",
+        "top_trending": "Tren teratas",
+        "recently_search": "Baru -baru ini pencarian",
+        "clear_all": "Bersihkan semua"
+    },
+    "story_detail": {
+        "read": "Membaca",
+        "listen": "Mendengarkan",
+        "share_via": "Berbagi melalui",
+        "review": "Tinjauan",
+        "see_all": "Lihat semua",
+        "description": "Keterangan",
+        "show_less": "Tunjukkan lebih sedikit",
+        "read_more": "Baca lebih banyak",
+        "by": "Oleh"
+    },
+    "success": {
+        "congratulation": "Selamat!",
+        "payment_text": "Pembayaran Anda telah berhasil proses sekarang Anda dapat mendengarkan buku audio Anda",
+        "back_home": "Kembali ke rumah"
+    }
+}

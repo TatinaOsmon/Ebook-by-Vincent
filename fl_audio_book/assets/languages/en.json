@@ -1,0 +1,231 @@
+{
+    "favorite": {
+        "add_book": "Added to My book",
+        "remove_book": "Removed from My book"
+    },
+    "exit_app": {
+        "app_exit": "Press back once again to exit"
+    },
+    "audio_book": {
+        "share_via": "Share via",
+        "download": "Download",
+        "speed": "Speed",
+        "chapter": "Chapter"
+    },
+    "login": {
+        "login": "Login",
+        "or_text": "Or Login using",
+        "login_text": "Let’s Login",
+        "number": "Mobile number",
+        "enter_number": "Enter your mobile number"
+    },
+    "otp": {
+        "resend_text": "Resend OTP",
+        "not_receive_text": "Didn’t receive an OTP code ?",
+        "please_wait": "Please wait",
+        "confirm_text": "Confirmation code has benn sent to you your mobile no +91(1234567890)",
+        "verify": "Verify",
+        "otp_text": "OTP verification"
+    },
+    "register": {
+        "register": "Register",
+        "user_name": "User name",
+        "enter_name": "Enter your name",
+        "mobile_number": "Mobile number",
+        "enter_number": "Enter your mobile number",
+        "email_address": "Email address",
+        "enter_email": "Enter your email address"
+    },
+    "author": {
+        "review": "Review",
+        "book": "Book",
+        "novelist": "American novelist",
+        "books": "Books",
+        "followers": "Followers",
+        "unfollow": "Unfollow",
+        "follow": "Follow"
+    },
+    "bottom_navigation": {
+        "home": "Home",
+        "search": "Search",
+        "my_book": "My book",
+        "profile": "Profile"
+    },
+    "famous_author": {
+        "famous_authors": "Famous authors"
+    },
+    "get_premium": {
+        "get_premium": "Get premium",
+        "what_you_get": "What you get",
+        "premium_text": "Get Premium",
+        "best_offer": "Best offer"
+    },
+    "home": {
+        "good_morning": "Good morning Jenny ",
+        "time_read": "It’s time to read!",
+        "famous_author": "Famous authors",
+        "paid_book": "Paid book",
+        "new_release": "New release",
+        "recommended": "Recommended for you",
+        "most_popular": "Most Popular",
+        "see_all": "See all",
+        "get_premium": "Get premium",
+        "download_text": "Download and listen your book offline",
+        "subscribe_now": "Subscribe now"
+    },
+    "horror": {
+        "horror": "Horror"
+    },
+    "most_popular": {
+        "most_popular": "Most Popular"
+    },
+    "my_book": {
+        "my_book": "My Book",
+        "empty_text": "You don’t have added\nany book here"
+    },
+    "new_release": {
+        "new_release": "New release"
+    },
+    "notification": {
+        "notification": "Notification",
+        "no_notification": "No new notification",
+        "older_notification": "Older notification",
+        "remove_notification": "Removed from notification",
+        "new_notification": "New notification"
+    },
+    "onboarding": {
+        "welcome_story": "Welcome to story time",
+        "listen_book": "Listen your books",
+        "easy_Explore": "Easy Explore",
+        "skip": "Skip",
+        "next": "Next",
+        "login": "Login"
+    },
+    "paid_story": {
+        "paid_story": "Paid story"
+    },
+    "payment": {
+        "get_premium": "Get premium",
+        "payment": "Payment",
+        "card_number": "Card number",
+        "enter_number": "Enter card number",
+        "expire_date": "Expire date",
+        "cvv": "CVV",
+        "enter_cvv": "Enter CVV",
+        "name_card": "Name on card",
+        "enter_name": "Enter card holder name",
+        "credit_card": "Credit Card",
+        "card_holdar": "Card holder"
+    },
+    "app_setting": {
+        "app_settings": "App settings",
+        "application_update": "Application update",
+        "dark_mode": "Dark mode",
+        "notification": "Notification"
+    },
+    "download": {
+        "download": "Download",
+        "empty_download": "Download video and\nlisten offline",
+        "remove_dowmload": "Removed from download"
+    },
+    "edit_profile": {
+        "edit_profile": "Edit profile",
+        "update": "Update",
+        "email_address": "Email address",
+        "change_email": "Change email address",
+        "enter_email": "Enter your email id",
+        "mobile_number": "Mobile number",
+        "change_mobile": "Change mobile number",
+        "enter_number": "Enter your number",
+        "okay": "Okay",
+        "cancel": "Cancel",
+        "user_name": "User name",
+        "change_name": "Change user name",
+        "enter_name": "Enter your name",
+        "select_image": "Select Image",
+        "take_photo": "Take photo",
+        "chosse_library": "Choose from library",
+        "remove_photo": "Remove photo"
+    },
+    "follow_list": {
+        "your_list": "Your follow list",
+        "unfollow": "Unfollow",
+        "follow": "Follow"
+    },
+    "help_support": {
+        "help_support": "Help & Support",
+        "send": "Send",
+        "write_message": "Write your message here",
+        "write_us": "Write us",
+        "text": "Let’s Create progress\ntogether"
+    },
+    "language": {
+        "language": "Language",
+        "update": "Update"
+    },
+    "privacy_policy": {
+        "privacy_policy": "Privacy policy",
+        "manage_information": "Managing your information",
+        "introduction": "Introduction"
+    },
+    "profile": {
+        "profile": "Profile",
+        "app_settings": "App settings",
+        "terms_Condition": "Terms & Condition",
+        "privacy_policy": "Privacy policy",
+        "help_Support": "Help & Support",
+        "logout": "Logout",
+        "logout_text": "Are you sure you want to logout?",
+        "cancel": "Cancel",
+        "edit_profile": "Edit profile",
+        "download": "Download",
+        "language": "Language",
+        "follow_list": "Your follow list",
+        "get_premium": "Get premium"
+    },
+    "terms_condition": {
+        "terms_condition": "Terms & condition"
+    },
+    "reading": {
+        "chapter": "Chapter",
+        "share_via": "Share via"
+    },
+    "recommended": {
+        "recommended_you": "Recommended for you"
+    },
+    "review": {
+        "review": "Review"
+    },
+    "search": {
+        "search": "Search",
+        "browse_all": "Browse all",
+        "top_book": "Top book for you",
+        "filter": "Filter",
+        "reset": "Reset",
+        "categories": "Categories",
+        "what_you_want": "What you want",
+        "language": "Language"
+    },
+    "search_screen": {
+        "search": "Search",
+        "top_trending": "Top trending",
+        "recently_search": "Recently search",
+        "clear_all": "Clear all"
+    },
+    "story_detail": {
+        "read": "Read",
+        "listen": "Listen",
+        "share_via": "Share via",
+        "review": "Review",
+        "see_all": "See all",
+        "description": "Description",
+        "show_less": "Show less",
+        "read_more": "Read more",
+        "by": "By"
+    },
+    "success": {
+        "congratulation": "Congratulation!",
+        "payment_text": "Your payment has been process successfully now you can listen your audio book",
+        "back_home": "Back to home"
+    }
+}

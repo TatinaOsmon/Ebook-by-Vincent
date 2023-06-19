@@ -1,0 +1,231 @@
+{
+    "favorite": {
+        "add_book": "أضاف إلى كتابي",
+        "remove_book": "تمت إزالته من كتابي"
+    },
+    "exit_app": {
+        "app_exit": "اضغط مرة أخرى للخروج"
+    },
+    "audio_book": {
+        "share_via": "شارك عبر",
+        "download": "تحميل",
+        "speed": "سرعة",
+        "chapter": "الفصل"
+    },
+    "login": {
+        "login": "تسجيل الدخول",
+        "or_text": "أو تسجيل الدخول باستخدام",
+        "login_text": "دعونا تسجيل الدخول",
+        "number": "رقم الهاتف المحمول",
+        "enter_number": "أدخل رقم هاتفك المحمول"
+    },
+    "otp": {
+        "resend_text": "إعادة إرسال OTP",
+        "not_receive_text": "لم يتلق رمز OTP؟",
+        "please_wait": "أرجو الإنتظار",
+        "confirm_text": "تم إرسال رمز التأكيد إلى BENN الخاص بك هو هاتفك المحمول NO +91 (1234567890)",
+        "verify": "يؤكد",
+        "otp_text": "التحقق من OTP"
+    },
+    "register": {
+        "register": "يسجل",
+        "user_name": "اسم المستخدم",
+        "enter_name": "أدخل أسمك",
+        "mobile_number": "رقم الهاتف المحمول",
+        "enter_number": "أدخل رقم هاتفك المحمول",
+        "email_address": "عنوان البريد الالكترونى",
+        "enter_email": "أدخل عنوان بريدك الالكتروني"
+    },
+    "author": {
+        "review": "إعادة النظر",
+        "book": "الكتاب",
+        "novelist": "الروائي الأمريكي",
+        "books": "كتب",
+        "followers": "متابعون",
+        "unfollow": "الغاء المتابعة",
+        "follow": "يتبع"
+    },
+    "bottom_navigation": {
+        "home": "مسكن",
+        "search": "يبحث",
+        "my_book": "كتابي",
+        "profile": "الملف الشخصي"
+    },
+    "famous_author": {
+        "famous_authors": "المؤلفين المشهورين"
+    },
+    "get_premium": {
+        "get_premium": "إحصل على الأفضل",
+        "what_you_get": "على ماذا حصلت",
+        "premium_text": "إحصل على الأفضل",
+        "best_offer": "أفضل عرض"
+    },
+    "home": {
+        "good_morning": "صباح الخير جيني",
+        "time_read": "إنه وقت القراءة!",
+        "famous_author": "المؤلفين المشهورين",
+        "paid_book": "كتاب مدفوع الأجر",
+        "new_release": "إصدار جديد",
+        "recommended": "موصى به لك",
+        "most_popular": "الأكثر شعبية",
+        "see_all": "اظهار الكل",
+        "get_premium": "إحصل على الأفضل",
+        "download_text": "قم بتنزيل كتابك واستمع إليه في وضع عدم الاتصال",
+        "subscribe_now": "إشترك الآن"
+    },
+    "horror": {
+        "horror": "رعب"
+    },
+    "most_popular": {
+        "most_popular": "الأكثر شعبية"
+    },
+    "my_book": {
+        "my_book": "كتابي",
+        "empty_text": "لم تضيف \n أي كتاب هنا"
+    },
+    "new_release": {
+        "new_release": "إصدار جديد"
+    },
+    "notification": {
+        "notification": "تنبيه",
+        "no_notification": "لا يوجد إشعار جديد",
+        "older_notification": "إخطار أقدم",
+        "remove_notification": "تمت إزالته من الإخطار",
+        "new_notification": "إشعار جديد"
+    },
+    "onboarding": {
+        "welcome_story": "مرحبا بكم في وقت القصة",
+        "listen_book": "استمع إلى كتبك",
+        "easy_Explore": "من السهل استكشاف",
+        "skip": "يتخطى",
+        "next": "التالي",
+        "login": "تسجيل الدخول"
+    },
+    "paid_story": {
+        "paid_story": "قصة مدفوعة الأجر"
+    },
+    "payment": {
+        "get_premium": "إحصل على الأفضل",
+        "payment": "دفع",
+        "card_number": "رقم البطاقة",
+        "enter_number": "أدخل رقم البطاقة",
+        "expire_date": "تاريخ انتهاء الصلاحية",
+        "cvv": "CVV",
+        "enter_cvv": "أدخل CVV",
+        "name_card": "الاسم على البطاقة",
+        "enter_name": "أدخل اسم حامل البطاقة",
+        "credit_card": "بطاقة الائتمان",
+        "card_holdar": "حامل البطاقة"
+    },
+    "app_setting": {
+        "app_settings": "إعدادات التطبيقات",
+        "application_update": "تحديث التطبيق",
+        "dark_mode": "الوضع المظلم",
+        "notification": "تنبيه"
+    },
+    "download": {
+        "download": "تحميل",
+        "empty_download": "قم بتنزيل الفيديو و \n استمع إلى وضع عدم الاتصال",
+        "remove_dowmload": "تمت إزالته من التنزيل"
+    },
+    "edit_profile": {
+        "edit_profile": "تعديل الملف الشخصي",
+        "update": "تحديث",
+        "email_address": "عنوان البريد الالكترونى",
+        "change_email": "تغيير البريد الالكتروني",
+        "enter_email": "أدخل معرف البريد الإلكتروني الخاص بك",
+        "mobile_number": "رقم الهاتف المحمول",
+        "change_mobile": "تغيير رقم الهاتف المحمول",
+        "enter_number": "أدخل رقمك",
+        "okay": "تمام",
+        "cancel": "يلغي",
+        "user_name": "اسم المستخدم",
+        "change_name": "غير اسم المستخدم",
+        "enter_name": "أدخل أسمك",
+        "select_image": "اختر صورة",
+        "take_photo": "تصوير",
+        "chosse_library": "اختر من المكتبة",
+        "remove_photo": "إزالة الصورة"
+    },
+    "follow_list": {
+        "your_list": "قائمة المتابعة الخاصة بك",
+        "unfollow": "الغاء المتابعة",
+        "follow": "يتبع"
+    },
+    "help_support": {
+        "help_support": "ساعد لدعم",
+        "send": "إرسال",
+        "write_message": "اكتب رسالتك هنا",
+        "write_us": "اكتب لنا",
+        "text": "دعونا نخلق تقدمًا \n معاً"
+    },
+    "language": {
+        "language": "لغة",
+        "update": "تحديث"
+    },
+    "privacy_policy": {
+        "privacy_policy": "سياسة الخصوصية",
+        "manage_information": "إدارة معلوماتك",
+        "introduction": "مقدمة"
+    },
+    "profile": {
+        "profile": "الملف الشخصي",
+        "app_settings": "إعدادات التطبيقات",
+        "terms_Condition": "الشروط والشرط",
+        "privacy_policy": "سياسة الخصوصية",
+        "help_Support": "ساعد لدعم",
+        "logout": "تسجيل خروج",
+        "logout_text": "هل أنت متأكد أنك تريد تسجيل الخروج؟",
+        "cancel": "يلغي",
+        "edit_profile": "تعديل الملف الشخصي",
+        "download": "تحميل",
+        "language": "لغة",
+        "follow_list": "قائمة المتابعة الخاصة بك",
+        "get_premium": "إحصل على الأفضل"
+    },
+    "terms_condition": {
+        "terms_condition": "الشروط والشرط"
+    },
+    "reading": {
+        "chapter": "الفصل",
+        "share_via": "شارك عبر"
+    },
+    "recommended": {
+        "recommended_you": "موصى به لك"
+    },
+    "review": {
+        "review": "إعادة النظر"
+    },
+    "search": {
+        "search": "يبحث",
+        "browse_all": "تصفح الكل",
+        "top_book": "أفضل كتاب لك",
+        "filter": "منقي",
+        "reset": "إعادة ضبط",
+        "categories": "فئات",
+        "what_you_want": "ما تريد",
+        "language": "لغة"
+    },
+    "search_screen": {
+        "search": "يبحث",
+        "top_trending": "توجه أعلى",
+        "recently_search": "البحث مؤخرا",
+        "clear_all": "امسح الكل"
+    },
+    "story_detail": {
+        "read": "اقرأ",
+        "listen": "استمع",
+        "share_via": "شارك عبر",
+        "review": "إعادة النظر",
+        "see_all": "اظهار الكل",
+        "description": "وصف",
+        "show_less": "تظهر أقل",
+        "read_more": "اقرأ أكثر",
+        "by": "بواسطة"
+    },
+    "success": {
+        "congratulation": "تهنئة!",
+        "payment_text": "لقد تم عملية الدفع الخاصة بك بنجاح الآن يمكنك الاستماع إلى كتابك الصوتي",
+        "back_home": "العودة إلى المنزل"
+    }
+}

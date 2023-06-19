@@ -1,0 +1,231 @@
+{
+    "favorite": {
+        "add_book": "मेरी किताब में जोड़ा गया",
+        "remove_book": "मेरी किताब से हटा दिया गया"
+    },
+    "exit_app": {
+        "app_exit": "बाहर निकलने के लिए एक बार फिर से दबाएं"
+    },
+    "audio_book": {
+        "share_via": "के माध्यम से बाँटे",
+        "download": "डाउनलोड",
+        "speed": "रफ़्तार",
+        "chapter": "अध्याय"
+    },
+    "login": {
+        "login": "लॉग इन करें",
+        "or_text": "या लॉगिन का उपयोग कर लॉगिन करें",
+        "login_text": "चलो लॉगिन करें",
+        "number": "मोबाइल नंबर",
+        "enter_number": "अपना मोबाइल नंबर दर्ज करें"
+    },
+    "otp": {
+        "resend_text": "ओटीपी पुनः भेजें",
+        "not_receive_text": "क्या ओटीपी कोड प्राप्त नहीं हुआ?",
+        "please_wait": "कृपया प्रतीक्षा करें",
+        "confirm_text": "पुष्टिकरण कोड ने आपको अपना मोबाइल नंबर +91 (1234567890) भेजा है",
+        "verify": "सत्यापित करना",
+        "otp_text": "ओटीपी सत्यापन"
+    },
+    "register": {
+        "register": "पंजीकरण करवाना",
+        "user_name": "उपयोगकर्ता नाम",
+        "enter_name": "अपना नाम दर्ज करें",
+        "mobile_number": "मोबाइल नंबर",
+        "enter_number": "अपना मोबाइल नंबर दर्ज करें",
+        "email_address": "ईमेल पता",
+        "enter_email": "अपना ईमेल पता दर्ज करें"
+    },
+    "author": {
+        "review": "समीक्षा",
+        "book": "किताब",
+        "novelist": "अमेरिकी उपन्यासकार",
+        "books": "पुस्तकें",
+        "followers": "समर्थक",
+        "unfollow": "करें",
+        "follow": "पालन ​​करना"
+    },
+    "bottom_navigation": {
+        "home": "घर",
+        "search": "खोज",
+        "my_book": "मेरी किताब",
+        "profile": "प्रोफ़ाइल"
+    },
+    "famous_author": {
+        "famous_authors": "प्रसिद्ध लेखक"
+    },
+    "get_premium": {
+        "get_premium": "प्रीमियम प्राप्त करना",
+        "what_you_get": "आपको क्या मिलता है",
+        "premium_text": "प्रीमियम प्राप्त करना",
+        "best_offer": "सबसे अच्छा प्रस्ताव"
+    },
+    "home": {
+        "good_morning": "सुप्रभात जेनी",
+        "time_read": "यह पढ़ने का समय है!",
+        "famous_author": "प्रसिद्ध लेखक",
+        "paid_book": "सशुल्क बही",
+        "new_release": "नई रिलीज",
+        "recommended": "आप के लिए अनुशंसित",
+        "most_popular": "सबसे लोकप्रिय",
+        "see_all": "सभी देखें",
+        "get_premium": "प्रीमियम प्राप्त करना",
+        "download_text": "डाउनलोड करें और अपनी पुस्तक ऑफ़लाइन सुनें",
+        "subscribe_now": "अभी ग्राहक बनें"
+    },
+    "horror": {
+        "horror": "डरावना"
+    },
+    "most_popular": {
+        "most_popular": "सबसे लोकप्रिय"
+    },
+    "my_book": {
+        "my_book": "मेरी किताब",
+        "empty_text": "आपने नहीं जोड़ा है \n यहाँ कोई पुस्तक"
+    },
+    "new_release": {
+        "new_release": "नई रिलीज"
+    },
+    "notification": {
+        "notification": "अधिसूचना",
+        "no_notification": "कोई नई अधिसूचना नहीं",
+        "older_notification": "पुरानी अधिसूचना",
+        "remove_notification": "अधिसूचना से हटा दिया गया",
+        "new_notification": "नई अधिसूचना"
+    },
+    "onboarding": {
+        "welcome_story": "कहानी के समय में आपका स्वागत है",
+        "listen_book": "अपनी किताबें सुनो",
+        "easy_Explore": "आसान अन्वेषण",
+        "skip": "छोड़ें",
+        "next": "अगला",
+        "login": "लॉग इन करें"
+    },
+    "paid_story": {
+        "paid_story": "दी गई कहानी"
+    },
+    "payment": {
+        "get_premium": "प्रीमियम प्राप्त करना",
+        "payment": "भुगतान",
+        "card_number": "कार्ड नंबर",
+        "enter_number": "कार्ड नंबर दर्ज करें",
+        "expire_date": "समाप्त होने की तिथि",
+        "cvv": "सीवीवी",
+        "enter_cvv": "CVV दर्ज करें",
+        "name_card": "कार्ड पर नाम",
+        "enter_name": "कार्ड धारक का नाम दर्ज करें",
+        "credit_card": "क्रेडिट कार्ड",
+        "card_holdar": "कार्ड धारक"
+    },
+    "app_setting": {
+        "app_settings": "एप्लिकेशन सेटिंग",
+        "application_update": "अनुप्रयोग अद्यतन",
+        "dark_mode": "डार्क मोड",
+        "notification": "अधिसूचना"
+    },
+    "download": {
+        "download": "डाउनलोड",
+        "empty_download": "वीडियो डाउनलोड करें और \n ऑफ़लाइन सुनो",
+        "remove_dowmload": "डाउनलोड से हटा दिया गया"
+    },
+    "edit_profile": {
+        "edit_profile": "प्रोफ़ाइल संपादित करें",
+        "update": "अद्यतन",
+        "email_address": "ईमेल पता",
+        "change_email": "ईमेल पता बदलें",
+        "enter_email": "अपना ईमेल आईडी दर्ज करें",
+        "mobile_number": "मोबाइल नंबर",
+        "change_mobile": "मोबाइल नंबर बदलें",
+        "enter_number": "अपना नंबर दर्ज करें",
+        "okay": "ठीक",
+        "cancel": "रद्द करना",
+        "user_name": "उपयोगकर्ता नाम",
+        "change_name": "उपयोगकर्ता नाम परिवर्तन करें",
+        "enter_name": "अपना नाम दर्ज करें",
+        "select_image": "छवि चुने",
+        "take_photo": "फोटो लो",
+        "chosse_library": "पुस्तकालय से चुनें",
+        "remove_photo": "फोटो निकालें"
+    },
+    "follow_list": {
+        "your_list": "आपकी अनुसरण सूची",
+        "unfollow": "करें",
+        "follow": "पालन ​​करना"
+    },
+    "help_support": {
+        "help_support": "मदद समर्थन",
+        "send": "भेजना",
+        "write_message": "यहां अपना संदेश लिखें",
+        "write_us": "हमें लिखना",
+        "text": "चलो प्रगति पैदा करते हैं \n साथ में"
+    },
+    "language": {
+        "language": "भाषा",
+        "update": "अद्यतन"
+    },
+    "privacy_policy": {
+        "privacy_policy": "गोपनीयता नीति",
+        "manage_information": "आपकी जानकारी का प्रबंधन करना",
+        "introduction": "परिचय"
+    },
+    "profile": {
+        "profile": "प्रोफ़ाइल",
+        "app_settings": "एप्लिकेशन सेटिंग",
+        "terms_Condition": "नियम व शर्त",
+        "privacy_policy": "गोपनीयता नीति",
+        "help_Support": "मदद समर्थन",
+        "logout": "लॉग आउट",
+        "logout_text": "क्या आप लॉग आउट करना चाहते हैं?",
+        "cancel": "रद्द करना",
+        "edit_profile": "प्रोफ़ाइल संपादित करें",
+        "download": "डाउनलोड",
+        "language": "भाषा",
+        "follow_list": "आपकी अनुसरण सूची",
+        "get_premium": "प्रीमियम प्राप्त करना"
+    },
+    "terms_condition": {
+        "terms_condition": "नियम व शर्त"
+    },
+    "reading": {
+        "chapter": "अध्याय",
+        "share_via": "के माध्यम से बाँटे"
+    },
+    "recommended": {
+        "recommended_you": "आप के लिए अनुशंसित"
+    },
+    "review": {
+        "review": "समीक्षा"
+    },
+    "search": {
+        "search": "खोज",
+        "browse_all": "सभी ब्राउज़ करें",
+        "top_book": "आपके लिए शीर्ष पुस्तक",
+        "filter": "फ़िल्टर",
+        "reset": "रीसेट",
+        "categories": "श्रेणियाँ",
+        "what_you_want": "आपको क्या चाहिए",
+        "language": "भाषा"
+    },
+    "search_screen": {
+        "search": "खोज",
+        "top_trending": "शीर्ष ट्रेंडिंग",
+        "recently_search": "हाल ही में खोज",
+        "clear_all": "सभी साफ करें"
+    },
+    "story_detail": {
+        "read": "पढ़ना",
+        "listen": "बात सुनो",
+        "share_via": "के माध्यम से बाँटे",
+        "review": "समीक्षा",
+        "see_all": "सभी देखें",
+        "description": "विवरण",
+        "show_less": "कम दिखाएं",
+        "read_more": "अधिक पढ़ें",
+        "by": "द्वारा"
+    },
+    "success": {
+        "congratulation": "बधाई!",
+        "payment_text": "आपका भुगतान सफलतापूर्वक प्रक्रिया हो गई है अब आप अपनी ऑडियो बुक सुन सकते हैं",
+        "back_home": "घर वापिस जा रहा हूँ"
+    }
+}

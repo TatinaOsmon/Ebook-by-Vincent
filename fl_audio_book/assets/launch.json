@@ -1,0 +1,33 @@
+{
+    "Popular list": [
+        {
+            "name": "Network book",
+            "image": "http://test.com/book001.jpg",
+            "rate": 3.5,
+            "view": "2.5m",
+            "author": "Vincent"
+        },
+        {
+            "Reccomended for you": [
+                {
+                    "name": "Network book",
+                    "image": "http://test.com/book001.jpg",
+                    "rate": 3.5,
+                    "view": "2.5m",
+                    "author": "Vincent"
+                },
+                {
+                    "New release": [
+                        {
+                            "name": "Network book",
+                            "image": "http://test.com/book001.jpg",
+                            "rate": 3.5,
+                            "view": "2.5m",
+                            "author": "Vincent"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

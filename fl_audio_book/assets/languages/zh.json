@@ -1,0 +1,231 @@
+{
+    "favorite": {
+        "add_book": "添加到我的书中",
+        "remove_book": "从我的书中删除"
+    },
+    "exit_app": {
+        "app_exit": "再次向后退出"
+    },
+    "audio_book": {
+        "share_via": "分享通过",
+        "download": "下载",
+        "speed": "速度",
+        "chapter": "章节"
+    },
+    "login": {
+        "login": "登录",
+        "or_text": "或使用登录",
+        "login_text": "让我们登录",
+        "number": "手机号码",
+        "enter_number": "输入你的手机号码"
+    },
+    "otp": {
+        "resend_text": "重新启动OTP",
+        "not_receive_text": "没有收到OTP代码？",
+        "please_wait": "请稍等",
+        "confirm_text": "确认代码已将Benn发送给您的手机NO +91（1234567890）",
+        "verify": "核实",
+        "otp_text": "OTP验证"
+    },
+    "register": {
+        "register": "登记",
+        "user_name": "用户名",
+        "enter_name": "输入你的名字",
+        "mobile_number": "手机号码",
+        "enter_number": "输入你的手机号码",
+        "email_address": "电子邮件地址",
+        "enter_email": "输入你的电子邮箱地址"
+    },
+    "author": {
+        "review": "审查",
+        "book": "书",
+        "novelist": "美国小说家",
+        "books": "图书",
+        "followers": "追随者",
+        "unfollow": "取消关注",
+        "follow": "跟随"
+    },
+    "bottom_navigation": {
+        "home": "家",
+        "search": "搜索",
+        "my_book": "我的书",
+        "profile": "轮廓"
+    },
+    "famous_author": {
+        "famous_authors": "著名作者"
+    },
+    "get_premium": {
+        "get_premium": "获得溢价",
+        "what_you_get": "你得到什么",
+        "premium_text": "获得溢价",
+        "best_offer": "最好的报价"
+    },
+    "home": {
+        "good_morning": "早上好，珍妮",
+        "time_read": "是时候阅读了！",
+        "famous_author": "著名作者",
+        "paid_book": "付费书",
+        "new_release": "新版本",
+        "recommended": "为你推荐",
+        "most_popular": "最受欢迎",
+        "see_all": "看到所有",
+        "get_premium": "获得溢价",
+        "download_text": "下载并脱机收听您的书",
+        "subscribe_now": "现在订阅"
+    },
+    "horror": {
+        "horror": "恐怖"
+    },
+    "most_popular": {
+        "most_popular": "最受欢迎"
+    },
+    "my_book": {
+        "my_book": "我的书",
+        "empty_text": "你没有添加 \n 这里的任何书"
+    },
+    "new_release": {
+        "new_release": "新版本"
+    },
+    "notification": {
+        "notification": "通知",
+        "no_notification": "没有新的通知",
+        "older_notification": "较旧的通知",
+        "remove_notification": "从通知中删除",
+        "new_notification": "新通知"
+    },
+    "onboarding": {
+        "welcome_story": "欢迎来到故事时间",
+        "listen_book": "听你的书",
+        "easy_Explore": "轻松探索",
+        "skip": "跳过",
+        "next": "下一个",
+        "login": "登录"
+    },
+    "paid_story": {
+        "paid_story": "付费故事"
+    },
+    "payment": {
+        "get_premium": "获得溢价",
+        "payment": "支付",
+        "card_number": "卡号",
+        "enter_number": "输入卡号",
+        "expire_date": "到期日期",
+        "cvv": "CVV",
+        "enter_cvv": "输入CVV",
+        "name_card": "卡片上的名字",
+        "enter_name": "输入卡持有人名称",
+        "credit_card": "信用卡",
+        "card_holdar": "名片夹"
+    },
+    "app_setting": {
+        "app_settings": "应用设置",
+        "application_update": "应用程序更新",
+        "dark_mode": "黑暗模式",
+        "notification": "通知"
+    },
+    "download": {
+        "download": "下载",
+        "empty_download": "下载视频和 \n 离线听",
+        "remove_dowmload": "从下载中删除"
+    },
+    "edit_profile": {
+        "edit_profile": "编辑个人资料",
+        "update": "更新",
+        "email_address": "电子邮件地址",
+        "change_email": "更改电子邮件地址",
+        "enter_email": "输入您的电子邮件ID",
+        "mobile_number": "手机号码",
+        "change_mobile": "更改手机号码",
+        "enter_number": "输入电话号码",
+        "okay": "好的",
+        "cancel": "取消",
+        "user_name": "用户名",
+        "change_name": "更改用户名",
+        "enter_name": "输入你的名字",
+        "select_image": "选择图像",
+        "take_photo": "拍照",
+        "chosse_library": "从图书馆挑选",
+        "remove_photo": "删除照片"
+    },
+    "follow_list": {
+        "your_list": "您的关注列表",
+        "unfollow": "取消关注",
+        "follow": "跟随"
+    },
+    "help_support": {
+        "help_support": "帮助支持",
+        "send": "发送",
+        "write_message": "在这里写你的消息",
+        "write_us": "写我们",
+        "text": "让我们创造进度 \n 一起"
+    },
+    "language": {
+        "language": "语",
+        "update": "更新"
+    },
+    "privacy_policy": {
+        "privacy_policy": "隐私政策",
+        "manage_information": "管理您的信息",
+        "introduction": "介绍"
+    },
+    "profile": {
+        "profile": "轮廓",
+        "app_settings": "应用设置",
+        "terms_Condition": "条款与协议",
+        "privacy_policy": "隐私政策",
+        "help_Support": "帮助支持",
+        "logout": "登出",
+        "logout_text": "您确定要注销吗？",
+        "cancel": "取消",
+        "edit_profile": "编辑个人资料",
+        "download": "下载",
+        "language": "语",
+        "follow_list": "您的关注列表",
+        "get_premium": "获得溢价"
+    },
+    "terms_condition": {
+        "terms_condition": "条款与协议"
+    },
+    "reading": {
+        "chapter": "章节",
+        "share_via": "分享通过"
+    },
+    "recommended": {
+        "recommended_you": "为你推荐"
+    },
+    "review": {
+        "review": "审查"
+    },
+    "search": {
+        "search": "搜索",
+        "browse_all": "浏览全部",
+        "top_book": "给你的顶书",
+        "filter": "筛选",
+        "reset": "重置",
+        "categories": "类别",
+        "what_you_want": "你想要什么",
+        "language": "语"
+    },
+    "search_screen": {
+        "search": "搜索",
+        "top_trending": "顶级流行",
+        "recently_search": "最近搜索",
+        "clear_all": "清除全部"
+    },
+    "story_detail": {
+        "read": "读",
+        "listen": "听",
+        "share_via": "分享通过",
+        "review": "审查",
+        "see_all": "看到所有",
+        "description": "描述",
+        "show_less": "显示较少",
+        "read_more": "阅读更多",
+        "by": "经过"
+    },
+    "success": {
+        "congratulation": "恭喜！",
+        "payment_text": "您的付款已成功处理，现在您可以收听您的音频书",
+        "back_home": "回到家"
+    }
+}
