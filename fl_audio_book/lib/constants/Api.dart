@@ -1,3 +1,4 @@
 class ApiConst {
-  static const String books = 'http://www.sayhong.net/temp/ebook/api2.json';
+  static const String books =
+      'https://storage.googleapis.com/www.sayhong.net/temp/api.json';
 }

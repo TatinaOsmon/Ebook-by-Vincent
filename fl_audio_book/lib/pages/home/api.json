@@ -2,49 +2,373 @@
     "Popular list": [
         {
             "name": "Network book",
-            "image": "http://test.com/book001.jpg",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s2-1.jpg",
             "rate": 3.5,
             "view": "2.5m",
-            "author": "Vincent"
+            "author": " By Vincent",
+            "description": "This is a captivating book about networks and their impact on society.",
+            "readLink": "https://eldar2021.github.io/tatyna/example.pdf",
+            "listenLink": "https://example.com/listen/network-book"
         },
         {
             "name": "Network book",
-            "image": "http://test.com/book001.jpg",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s6-2.jpg",
             "rate": 3.5,
             "view": "2.5m",
-            "author": "Vincent"
+            "author": " By Vincent",
+            "description": "Discover the fascinating world of networks with this book by Vincent.",
+            "readLink": "https://eldar2021.github.io/tatyna/example.pdf",
+            "listenLink": "https://example.com/listen/network-book"
+        },
+        {
+            "name": "Network book",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s6-2.jpg",
+            "rate": 3.5,
+            "view": "2.5m",
+            "author": " By Vincent",
+            "description": "Discover the fascinating world of networks with this book by Vincent.",
+            "readLink": "https://eldar2021.github.io/tatyna/example.pdf",
+            "listenLink": "https://example.com/listen/network-book"
+        },
+        {
+            "name": "Network book",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s6-2.jpg",
+            "rate": 3.5,
+            "view": "2.5m",
+            "author": " By Vincent",
+            "description": "Discover the fascinating world of networks with this book by Vincent.",
+            "readLink": "https://eldar2021.github.io/tatyna/example.pdf",
+            "listenLink": "https://example.com/listen/network-book"
+        },
+        {
+            "name": "Network book",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s6-2.jpg",
+            "rate": 3.5,
+            "view": "2.5m",
+            "author": " By Vincent",
+            "description": "Discover the fascinating world of networks with this book by Vincent.",
+            "readLink": "https://eldar2021.github.io/tatyna/example.pdf",
+            "listenLink": "https://example.com/listen/network-book"
+        },
+        {
+            "name": "Network book",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s6-2.jpg",
+            "rate": 3.5,
+            "view": "2.5m",
+            "author": " By Vincent",
+            "description": "Discover the fascinating world of networks with this book by Vincent.",
+            "readLink": "https://eldar2021.github.io/tatyna/example.pdf",
+            "listenLink": "https://example.com/listen/network-book"
         }
     ],
-    "Reccomended for you": [
+    "Recommended for you": [
         {
             "name": "Network book",
-            "image": "http://test.com/book001.jpg",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s7-1.jpg",
             "rate": 3.5,
             "view": "2.5m",
-            "author": "Vincent"
+            "author": " By Vincent",
+            "description": "Recommended for you: a thought-provoking book on networks.",
+            "readLink": "https://eldar2021.github.io/tatyna/example.pdf",
+            "listenLink": "https://example.com/listen/network-book"
         },
         {
             "name": "Network book",
-            "image": "http://test.com/book001.jpg",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s7-1.jpg",
             "rate": 3.5,
             "view": "2.5m",
-            "author": "Vincent"
+            "author": " By Vincent",
+            "description": "Recommended for you: a thought-provoking book on networks.",
+            "readLink": "https://eldar2021.github.io/tatyna/example.pdf",
+            "listenLink": "https://example.com/listen/network-book"
+        },
+        {
+            "name": "Network book",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s7-2.jpg",
+            "rate": 3.5,
+            "view": "2.5m",
+            "author": " By Vincent",
+            "description": "Expand your knowledge with this recommended book on networks.",
+            "readLink": "https://eldar2021.github.io/tatyna/example.pdf",
+            "listenLink": "https://example.com/listen/network-book"
+        },
+        {
+            "name": "Network book",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s7-2.jpg",
+            "rate": 3.5,
+            "view": "2.5m",
+            "author": " By Vincent",
+            "description": "Expand your knowledge with this recommended book on networks.",
+            "readLink": "https://eldar2021.github.io/tatyna/example.pdf",
+            "listenLink": "https://example.com/listen/network-book"
+        },
+        {
+            "name": "Network book",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s7-1.jpg",
+            "rate": 3.5,
+            "view": "2.5m",
+            "author": " By Vincent",
+            "description": "Recommended for you: a thought-provoking book on networks.",
+            "readLink": "https://eldar2021.github.io/tatyna/example.pdf",
+            "listenLink": "https://example.com/listen/network-book"
+        },
+        {
+            "name": "Network book",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s7-1.jpg",
+            "rate": 3.5,
+            "view": "2.5m",
+            "author": " By Vincent",
+            "description": "Recommended for you: a thought-provoking book on networks.",
+            "readLink": "https://eldar2021.github.io/tatyna/example.pdf",
+            "listenLink": "https://example.com/listen/network-book"
         }
     ],
     "New release": [
         {
             "name": "Network book",
-            "image": "http://test.com/book001.jpg",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s7-3.jpg",
             "rate": 3.5,
             "view": "2.5m",
-            "author": "Vincent"
+            "author": " By Vincent",
+            "description": "Experience the latest release: a captivating book about networks.",
+            "readLink": "https://eldar2021.github.io/tatyna/example.pdf",
+            "listenLink": "https://example.com/listen/network-book"
         },
         {
             "name": "Network book",
-            "image": "http://test.com/book001.jpg",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s7-4.jpg",
             "rate": 3.5,
             "view": "2.5m",
-            "author": "Vincent"
+            "author": " By Vincent",
+            "description": "Don't miss out on this new release that explores the world of networks.",
+            "readLink": "https://eldar2021.github.io/tatyna/example.pdf",
+            "listenLink": "https://example.com/listen/network-book"
+        },
+        {
+            "name": "Network book",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s7-3.jpg",
+            "rate": 3.5,
+            "view": "2.5m",
+            "author": " By Vincent",
+            "description": "Experience the latest release: a captivating book about networks.",
+            "readLink": "https://eldar2021.github.io/tatyna/example.pdf",
+            "listenLink": "https://example.com/listen/network-book"
+        },
+        {
+            "name": "Network book",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s7-3.jpg",
+            "rate": 3.5,
+            "view": "2.5m",
+            "author": " By Vincent",
+            "description": "Experience the latest release: a captivating book about networks.",
+            "readLink": "https://eldar2021.github.io/tatyna/example.pdf",
+            "listenLink": "https://example.com/listen/network-book"
+        },
+        {
+            "name": "Network book",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s7-4.jpg",
+            "rate": 3.5,
+            "view": "2.5m",
+            "author": " By Vincent",
+            "description": "Don't miss out on this new release that explores the world of networks.",
+            "readLink": "https://eldar2021.github.io/tatyna/example.pdf",
+            "listenLink": "https://example.com/listen/network-book"
+        },
+        {
+            "name": "Network book",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s7-4.jpg",
+            "rate": 3.5,
+            "view": "2.5m",
+            "author": " By Vincent",
+            "description": "Don't miss out on this new release that explores the world of networks.",
+            "readLink": "https://arxiv.org/pdf/1804.01396.pdf",
+            "listenLink": "https://example.com/listen/network-book"
+        }
+    ],
+    "Classsic": [
+        {
+            "name": "Network book",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s2-1.jpg",
+            "rate": 3.5,
+            "view": "2.5m",
+            "author": " By Vincent",
+            "description": "This is a captivating book about networks and their impact on society.",
+            "readLink": "https://arxiv.org/pdf/1804.01396.pdf",
+            "listenLink": "https://example.com/listen/network-book"
+        },
+        {
+            "name": "Network book",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s6-2.jpg",
+            "rate": 3.5,
+            "view": "2.5m",
+            "author": " By Vincent",
+            "description": "Discover the fascinating world of networks with this book by Vincent.",
+            "readLink": "https://arxiv.org/pdf/1804.01396.pdf",
+            "listenLink": "https://example.com/listen/network-book"
+        },
+        {
+            "name": "Network book",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s6-2.jpg",
+            "rate": 3.5,
+            "view": "2.5m",
+            "author": " By Vincent",
+            "description": "Discover the fascinating world of networks with this book by Vincent.",
+            "readLink": "https://arxiv.org/pdf/1804.01396.pdf",
+            "listenLink": "https://example.com/listen/network-book"
+        },
+        {
+            "name": "Network book",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s6-2.jpg",
+            "rate": 3.5,
+            "view": "2.5m",
+            "author": " By Vincent",
+            "description": "Discover the fascinating world of networks with this book by Vincent.",
+            "readLink": "https://arxiv.org/pdf/1804.01396.pdf",
+            "listenLink": "https://example.com/listen/network-book"
+        },
+        {
+            "name": "Network book",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s6-2.jpg",
+            "rate": 3.5,
+            "view": "2.5m",
+            "author": " By Vincent",
+            "description": "Discover the fascinating world of networks with this book by Vincent.",
+            "readLink": "https://arxiv.org/pdf/1804.01396.pdf",
+            "listenLink": "https://example.com/listen/network-book"
+        },
+        {
+            "name": "Network book",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s6-2.jpg",
+            "rate": 3.5,
+            "view": "2.5m",
+            "author": " By Vincent",
+            "description": "Discover the fascinating world of networks with this book by Vincent.",
+            "readLink": "https://arxiv.org/pdf/1804.01396.pdf",
+            "listenLink": "https://example.com/listen/network-book"
+        }
+    ],
+    "Romantic": [
+        {
+            "name": "Network book",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s7-1.jpg",
+            "rate": 3.5,
+            "view": "2.5m",
+            "author": " By Vincent",
+            "description": "Recommended for you: a thought-provoking book on networks.",
+            "readLink": "https://arxiv.org/pdf/1804.01396.pdf",
+            "listenLink": "https://example.com/listen/network-book"
+        },
+        {
+            "name": "Network book",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s7-1.jpg",
+            "rate": 3.5,
+            "view": "2.5m",
+            "author": " By Vincent",
+            "description": "Recommended for you: a thought-provoking book on networks.",
+            "readLink": "https://arxiv.org/pdf/1804.01396.pdf",
+            "listenLink": "https://example.com/listen/network-book"
+        },
+        {
+            "name": "Network book",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s7-2.jpg",
+            "rate": 3.5,
+            "view": "2.5m",
+            "author": " By Vincent",
+            "description": "Expand your knowledge with this recommended book on networks.",
+            "readLink": "https://arxiv.org/pdf/1804.01396.pdf",
+            "listenLink": "https://example.com/listen/network-book"
+        },
+        {
+            "name": "Network book",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s7-2.jpg",
+            "rate": 3.5,
+            "view": "2.5m",
+            "author": " By Vincent",
+            "description": "Expand your knowledge with this recommended book on networks.",
+            "readLink": "https://arxiv.org/pdf/1804.01396.pdf",
+            "listenLink": "https://example.com/listen/network-book"
+        },
+        {
+            "name": "Network book",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s7-1.jpg",
+            "rate": 3.5,
+            "view": "2.5m",
+            "author": " By Vincent",
+            "description": "Recommended for you: a thought-provoking book on networks.",
+            "readLink": "https://arxiv.org/pdf/1804.01396.pdf",
+            "listenLink": "https://example.com/listen/network-book"
+        },
+        {
+            "name": "Network book",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s7-1.jpg",
+            "rate": 3.5,
+            "view": "2.5m",
+            "author": " By Vincent",
+            "description": "Recommended for you: a thought-provoking book on networks.",
+            "readLink": "https://arxiv.org/pdf/1804.01396.pdf",
+            "listenLink": "https://example.com/listen/network-book"
+        }
+    ],
+    "Art": [
+        {
+            "name": "Network book",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s7-3.jpg",
+            "rate": 3.5,
+            "view": "2.5m",
+            "author": " By Vincent",
+            "description": "Experience the latest release: a captivating book about networks.",
+            "readLink": "https://arxiv.org/pdf/1804.01396.pdf",
+            "listenLink": "https://example.com/listen/network-book"
+        },
+        {
+            "name": "Network book",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s7-4.jpg",
+            "rate": 3.5,
+            "view": "2.5m",
+            "author": " By Vincent",
+            "description": "Don't miss out on this new release that explores the world of networks.",
+            "readLink": "https://arxiv.org/pdf/1804.01396.pdf",
+            "listenLink": "https://example.com/listen/network-book"
+        },
+        {
+            "name": "Network book",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s7-3.jpg",
+            "rate": 3.5,
+            "view": "2.5m",
+            "author": " By Vincent",
+            "description": "Experience the latest release: a captivating book about networks.",
+            "readLink": "https://arxiv.org/pdf/1804.01396.pdf",
+            "listenLink": "https://example.com/listen/network-book"
+        },
+        {
+            "name": "Network book",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s7-3.jpg",
+            "rate": 3.5,
+            "view": "2.5m",
+            "author": " By Vincent",
+            "description": "Experience the latest release: a captivating book about networks.",
+            "readLink": "https://arxiv.org/pdf/1804.01396.pdf",
+            "listenLink": "https://example.com/listen/network-book"
+        },
+        {
+            "name": "Network book",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s7-4.jpg",
+            "rate": 3.5,
+            "view": "2.5m",
+            "author": " By Vincent",
+            "description": "Don't miss out on this new release that explores the world of networks.",
+            "readLink": "https://arxiv.org/pdf/1804.01396.pdf",
+            "listenLink": "https://example.com/listen/network-book"
+        },
+        {
+            "name": "Network book",
+            "image": "https://photo.queenshop.com.tw/qs/333/home/2023/0614/s7-4.jpg",
+            "rate": 3.5,
+            "view": "2.5m",
+            "author": " By Vincent",
+            "description": "Don't miss out on this new release that explores the world of networks.",
+            "readLink": "https://arxiv.org/pdf/1804.01396.pdf",
+            "listenLink": "https://example.com/listen/network-book"
         }
     ]
 }
