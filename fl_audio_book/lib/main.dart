@@ -98,6 +98,7 @@ class _MyAppState extends State<MyApp> {
           '/termsAndCondition': (context) => const TermsAndConditionScreen(),
           '/privacyPolicy': (context) => const PrivacyPolicyScreen(),
           '/helpAndSupport': (context) => const HelpAndSupportScreen(),
+
           // '/pdfViewer': (context) => PDFViewerPage(
           //       pdfUrls:
           //           ModalRoute.of(context)!.settings.arguments as List<String>,

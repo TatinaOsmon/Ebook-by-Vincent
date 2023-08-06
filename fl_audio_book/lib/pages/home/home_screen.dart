@@ -31,9 +31,6 @@ class BookListBuilder extends StatelessWidget {
         final book = books[index];
         return GestureDetector(
           onTap: () {
-            // Handle the tap event here
-            // You can navigate to a new screen or show a dialog with book details
-            // For example, you can navigate to a BookDetailsScreen and pass the book object
             Navigator.push(
               context,
               MaterialPageRoute(
@@ -106,80 +103,6 @@ class BookListBuilder extends StatelessWidget {
   }
 }
 
-// class BookListBuilder extends StatelessWidget {
-//   final List<Book> books;
-
-//   const BookListBuilder({Key? key, required this.books}) : super(key: key);
-
-//   @override
-//   Widget build(BuildContext context) {
-//     return ListView.builder(
-//       physics: const BouncingScrollPhysics(),
-//       scrollDirection: Axis.horizontal,
-//       itemCount: books.length,
-//       itemBuilder: (context, index) {
-//         final book = books[index];
-//         return Column(
-//           children: [
-//             Padding(
-//               padding: const EdgeInsets.only(right: 18.0),
-//               child: Container(
-//                 height: 141,
-//                 width: 130,
-//                 decoration: BoxDecoration(
-//                   image: DecorationImage(
-//                     image: NetworkImage(book.image),
-//                     fit: BoxFit.cover,
-//                     // fit: BoxFit.fitWidth,
-//                   ),
-//                 ),
-//               ),
-//             ),
-//             const SizedBox(height: 5),
-//             SizedBox(
-//               width: 100,
-//               child: Text(
-//                 book.name,
-//                 maxLines: 2,
-//                 overflow: TextOverflow.ellipsis,
-//                 textAlign: TextAlign.center,
-//                 style: const TextStyle(fontSize: 12),
-//               ),
-//             ),
-//             const SizedBox(height: 5),
-//             SizedBox(
-//               width: 100,
-//               child: Text(
-//                 book.author,
-//                 maxLines: 1,
-//                 overflow: TextOverflow.ellipsis,
-//                 textAlign: TextAlign.center,
-//                 style: const TextStyle(fontSize: 10),
-//               ),
-//             ),
-//             const SizedBox(height: 5),
-//             Row(
-//               mainAxisAlignment: MainAxisAlignment.center,
-//               children: [
-//                 const Icon(
-//                   Icons.star,
-//                   color: Colors.amber,
-//                   size: 12,
-//                 ),
-//                 const SizedBox(width: 2),
-//                 Text(
-//                   book.rate.toString(),
-//                   style: const TextStyle(fontSize: 10),
-//                 ),
-//               ],
-//             ),
-//           ],
-//         );
-//       },
-//     );
-//   }
-// }
-
 class _HomeScreenState extends State<HomeScreen> {
   dynamic result;
 
@@ -188,170 +111,6 @@ class _HomeScreenState extends State<HomeScreen> {
     super.initState();
     context.read<HomeCubit>().fetchBooks();
   }
-
-  // final popularlist = [
-  //   {
-  //     "image": 'http://www.sayhong.net/temp/ebook/photo/mostPopular6.png',
-  //     "name": "Network book",
-  //     "rate": 3.5,
-  //     "view": "2.5m",
-  //     "author": "By Ann Leary",
-  //   },
-  //   {
-  //     "image": "assets/home/mostPopular3.png",
-  //     "name": "Dear Universe",
-  //     "rate": 5.5,
-  //     "view": "4.5m",
-  //     "author": "By Sarah prout",
-  //   },
-  //   {
-  //     "image": "assets/home/mostPopular4.png",
-  //     "name": "The Way Life Should",
-  //     "rate": 2.5,
-  //     "view": "1.5m",
-  //     "author": "By Baker kline",
-  //   },
-  //   {
-  //     "image": "assets/home/mostPopular5.png",
-  //     "name": "Marrying Winterborne",
-  //     "rate": 2.5,
-  //     "view": "5.5m",
-  //     "author": "G Bailey",
-  //   },
-  //   {
-  //     "image": "assets/home/mostPopular6.png",
-  //     "name": "Meditation",
-  //     "rate": 4.5,
-  //     "view": "9.5m",
-  //     "author": "By Gabrielle Bernstein",
-  //   },
-  // ];
-
-  // final recommendedlist = [
-  //   {
-  //     "image": "assets/home/recommended1.png",
-  //     "name": "Ruthless As Hell",
-  //     "rate": 5.5,
-  //     "view": "4.5m",
-  //     "author": "By G Bailey"
-  //   },
-  //   {
-  //     "image": "assets/home/recommended2.png",
-  //     "name": "Best Wife",
-  //     "rate": 4.5,
-  //     "view": "2.5m",
-  //     "author": "By Ajay K Pandey"
-  //   },
-  //   {
-  //     "image": "assets/home/recommended3.png",
-  //     "name": "Dark Operative ",
-  //     "rate": 3.5,
-  //     "view": "2.5m",
-  //     "author": "By I.T. Lucas"
-  //   },
-  //   {
-  //     "image": "assets/home/recommended4.png",
-  //     "name": "Bed Boys After Dark",
-  //     "rate": 4.5,
-  //     "view": "7.5m",
-  //     "author": "By melissa foster"
-  //   },
-  //   {
-  //     "image": "assets/home/recommended5.png",
-  //     "name": "Dark Hope",
-  //     "rate": 1.5,
-  //     "view": "4.5m",
-  //     "author": "By H.D.Smith"
-  //   },
-  //   {
-  //     "image": "assets/home/recommended6.png",
-  //     "name": "Dark Secret",
-  //     "rate": 4.5,
-  //     "view": "9.5m",
-  //     "author": "I. T. Lucas"
-  //   },
-  // ];
-  // final newReleaselist = [
-  //   {
-  //     "image": "assets/home/newRelease1.png",
-  //     "name": "A life",
-  //     "rate": 4.5,
-  //     "view": "2.5m",
-  //     "author": "By A.P.J.Abdul kalam"
-  //   },
-  //   {
-  //     "image": "assets/home/newRelease2.png",
-  //     "name": "Ignited Minds",
-  //     "rate": 3.5,
-  //     "view": "6.5m",
-  //     "author": "By A.P.J.Abdul kalam"
-  //   },
-  //   {
-  //     "image": "assets/home/newRelease3.png",
-  //     "name": "Holly Black",
-  //     "rate": 4.5,
-  //     "view": "3.5m",
-  //     "author": "By Sarah prout"
-  //   },
-  //   {
-  //     "image": "assets/home/newRelease4.png",
-  //     "name": "Stars Across Time",
-  //     "rate": 5.5,
-  //     "view": "6.5m",
-  //     "author": "By Baker kline"
-  //   },
-  //   {
-  //     "image": "assets/home/newRelease5.png",
-  //     "name": "Harry Potter",
-  //     "rate": 4.5,
-  //     "view": "5.5m",
-  //     "author": "By J.K.Rowling"
-  //   },
-  //   {
-  //     "image": "assets/home/newRelease6.png",
-  //     "name": "Rebirth",
-  //     "rate": 2.5,
-  //     "view": "6.5m",
-  //     "author": "By Jahnavi Barua"
-  //   },
-  // ];
-  // final paidbooklist = [
-  //   {
-  //     "image": "assets/home/paidbook1.png",
-  //     "name": "Ruthless As Hell",
-  //     "rate": 3.5,
-  //     "view": "2.5m",
-  //     "author": "G Bailey"
-  //   },
-  //   {
-  //     "image": "assets/home/paidbook2.png",
-  //     "name": "Best Wife",
-  //     "rate": 3.5,
-  //     "view": "2.5m",
-  //     "author": "By Ajay K Pandey"
-  //   },
-  //   {
-  //     "image": "assets/home/paidbook3.png",
-  //     "name": "Dark Operative",
-  //     "rate": 2.5,
-  //     "view": "3.5m",
-  //     "author": "By I.T. Lucas"
-  //   },
-  //   {
-  //     "image": "assets/home/paidbook4.png",
-  //     "name": "Bed Boys After Dark",
-  //     "rate": 3.5,
-  //     "view": "2.5m",
-  //     "author": "By melissa foster"
-  //   },
-  //   {
-  //     "image": "assets/home/paidbook5.png",
-  //     "name": "Dark Hope",
-  //     "rate": 3.5,
-  //     "view": "2.5m",
-  //     "author": "By H.D.Smith"
-  //   },
-  // ];
 
   @override
   Widget build(BuildContext context) {
@@ -400,18 +159,212 @@ class _HomeScreenState extends State<HomeScreen> {
             ],
           ),
         ),
-        // actions: [
-        //   IconButton(
-        //     onPressed: () {
-        //       Navigator.pushNamed(context, '/notification');
-        //     },
-        //     icon: const Icon(
-        //       CupertinoIcons.bell,
-        //       color: primaryColor,
-        //     ),
-        //   ),
-        // ],
+        bottom: PreferredSize(
+          preferredSize: const Size.fromHeight(48),
+          child: SizedBox(
+            height: 48,
+            child: ListView(
+              scrollDirection: Axis.horizontal,
+              children: [
+                InkWell(
+                  onTap: () {
+                    // Handle Action category click
+                    // Open books related to Action category
+                  },
+                  child: const Padding(
+                    padding: EdgeInsets.all(8.0),
+                    child: Text('Action',
+                        style: TextStyle(
+                            fontSize: 18,
+                            fontWeight: FontWeight.bold,
+                            color: Colors.black38)),
+                  ),
+                ),
+                const SizedBox(width: 16),
+                InkWell(
+                  onTap: () {
+                    // Handle Romance category click
+                    // Open books related to Romance category
+                  },
+                  child: const Padding(
+                    padding: EdgeInsets.all(8.0),
+                    child: Text('Romance',
+                        style: TextStyle(
+                            fontSize: 18,
+                            fontWeight: FontWeight.bold,
+                            color: Colors.black38)),
+                  ),
+                ),
+                const SizedBox(width: 16),
+                InkWell(
+                  onTap: () {
+                    // Handle History category click
+                    // Open books related to History category
+                  },
+                  child: const Padding(
+                    padding: EdgeInsets.all(8.0),
+                    child: Text('History',
+                        style: TextStyle(
+                            fontSize: 18,
+                            fontWeight: FontWeight.bold,
+                            color: Colors.black38)),
+                  ),
+                ),
+                const SizedBox(width: 16),
+                InkWell(
+                  onTap: () {
+                    // Handle Health/Fitness category click
+                    // Open books related to Health/Fitness category
+                  },
+                  child: const Padding(
+                    padding: EdgeInsets.all(8.0),
+                    child: Text('Health/Fitness',
+                        style: TextStyle(
+                            fontSize: 18,
+                            fontWeight: FontWeight.bold,
+                            color: Colors.black38)),
+                  ),
+                ),
+                const SizedBox(width: 16),
+                InkWell(
+                  onTap: () {
+                    final state = context.read<HomeCubit>().state;
+                    final popularBooks = state.books?.popularList ?? [];
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => Container(
+                          color: Colors.white,
+                          child: BookListBuilder(books: popularBooks),
+                        ),
+                      ),
+                    );
+                  },
+                  child: const Padding(
+                    padding: EdgeInsets.all(8.0),
+                    child: Text('Popular Books',
+                        style: TextStyle(
+                            fontSize: 18,
+                            fontWeight: FontWeight.bold,
+                            color: Colors.black38)),
+                  ),
+                ),
+                const SizedBox(
+                  width: 16,
+                ),
+                InkWell(
+                  onTap: () {
+                    final state = context.read<HomeCubit>().state;
+                    final recommendedBooks = state.books?.recommendedList ?? [];
+
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => Container(
+                          color: Colors.white,
+                          margin: const EdgeInsets.only(top: 30),
+                          child: BookListBuilder(
+                            books: recommendedBooks,
+                          ),
+                        ),
+                      ),
+                    );
+                  },
+                  child: const Padding(
+                    padding: EdgeInsets.all(8.0),
+                    child: Text('Recommended Books',
+                        style: TextStyle(
+                            fontSize: 18,
+                            fontWeight: FontWeight.bold,
+                            color: Colors.black38)),
+                  ),
+                ),
+                const SizedBox(width: 16),
+                InkWell(
+                  onTap: () {
+                    // Handle History category click
+                    // Open books related to History category
+                  },
+                  child: const Padding(
+                    padding: EdgeInsets.all(8.0),
+                    child: Text('New Release Books',
+                        style: TextStyle(
+                            fontSize: 18,
+                            fontWeight: FontWeight.bold,
+                            color: Colors.black38)),
+                  ),
+                ),
+                const SizedBox(width: 16),
+                InkWell(
+                  onTap: () {
+                    // Handle History category click
+                    // Open books related to History category
+                  },
+                  child: const Padding(
+                    padding: EdgeInsets.all(8.0),
+                    child: Text('Fantastic',
+                        style: TextStyle(
+                            fontSize: 18,
+                            fontWeight: FontWeight.bold,
+                            color: Colors.black38)),
+                  ),
+                ),
+                const SizedBox(width: 16),
+                InkWell(
+                  onTap: () {
+                    // Handle History category click
+                    // Open books related to History category
+                  },
+                  child: const Padding(
+                    padding: EdgeInsets.all(8.0),
+                    child: Text('Classic',
+                        style: TextStyle(
+                            fontSize: 18,
+                            fontWeight: FontWeight.bold,
+                            color: Colors.black38)),
+                  ),
+                ),
+                const SizedBox(width: 16),
+                InkWell(
+                  onTap: () {
+                    // Handle History category click
+                    // Open books related to History category
+                  },
+                  child: const Padding(
+                    padding: EdgeInsets.all(8.0),
+                    child: Text('Art',
+                        style: TextStyle(
+                            fontSize: 18,
+                            fontWeight: FontWeight.bold,
+                            color: Colors.black38)),
+                  ),
+                ),
+              ],
+            ),
+          ),
+        ),
       ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: () {
+          Navigator.pop(context);
+        },
+        child: const Icon(Icons.arrow_back),
+      ),
+
+      // Rest of your Scaffold code...
+
+      // actions: [
+      //   IconButton(
+      //     onPressed: () {
+      //       Navigator.pushNamed(context, '/notification');
+      //     },
+      //     icon: const Icon(
+      //       CupertinoIcons.bell,
+      //       color: primaryColor,
+      //     ),
+      //   ),
+      // ],
+
       body: BlocBuilder<HomeCubit, HomeState>(
         builder: (context, state) {
           if (state.status == FetchStatus.loading) {
@@ -628,6 +581,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         const SizedBox(height: 16),
                       ],
                     );
+
                   // case 4:
                   //   return Column(
                   //     children: [
